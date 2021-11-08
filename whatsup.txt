@@ -13,3 +13,5 @@ AUTHOR : SUKUMAR
 5. Creating groups in whatsapp
 
 6. Creating Status for whatsapp
+
+7. adding a new feature
