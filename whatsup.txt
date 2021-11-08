@@ -11,3 +11,5 @@ AUTHOR : SUKUMAR
 4. Attachments (Images, Audio, Video) code
 
 5. Creating groups in whatsapp
+
+6. Creating Status for whatsapp
